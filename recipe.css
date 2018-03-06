@@ -1,0 +1,22 @@
+/*salad picture effects*/
+.saladpic {
+    width: 300px;
+    margin-left: 25%;
+}
+/*positioning layout*/
+h2 {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.salad {
+    position: absolute;
+    top: 75px;
+    left: 50%;
+}
+.dressing {
+    position: absolute;
+    top: 75px;
+    left: 65%;
+}
